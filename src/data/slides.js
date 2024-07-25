@@ -6,7 +6,7 @@ const slides = [
     title: "Ui",
     description:
       "1. Tlfuric compounds in onions cause is to cry when we chop them. 2. The largest onion ever grown is a whopping 4.5kg",
-    imageUrl: "/images/Enc/ui.jpg",
+    imageUrl: "/images/Term 1/Week 1/Enc/ui.jpg",
   },
   {
     term: 1,
