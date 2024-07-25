@@ -15,7 +15,7 @@ const slides = [
     title: "Beet",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/beet.jpg",
+    imageUrl: "/images/Term1/Week1/Enc/beet.jpg",
   },
   {
     term: 1,
