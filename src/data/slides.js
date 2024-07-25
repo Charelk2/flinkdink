@@ -6,7 +6,7 @@ const slides = [
     title: "Ui",
     description:
       "1. Tlfuric compounds in onions cause is to cry when we chop them. 2. The largest onion ever grown is a whopping 4.5kg",
-    imageUrl: "https://postimg.cc/pyVgcFNJ",
+    imageUrl: "https://i.postimg.cc/y60sdmvt/ui.jpg",
   },
   {
     term: 1,
@@ -15,7 +15,7 @@ const slides = [
     title: "Beet",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "https://postimg.cc/K1gXrhXX",
+    imageUrl: "https://i.postimg.cc/dV5qFJ40/beet.jpg",
   },
   {
     term: 1,
