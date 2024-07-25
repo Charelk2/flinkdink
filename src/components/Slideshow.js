@@ -1,9 +1,11 @@
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import Slide from "./Slide";
 import slides from "../data/slides";
 
 function Slideshow({ term, week, onComplete }) {
   const [currentIndex, setCurrentIndex] = useState(0);
+  const touchStartX = useRef(0);
+  const touchEndX = useRef(0);
 
   // Filter slides based on the specified term and week
   const weekSlides = slides.filter((slide) => slide.term === term && slide.week === week);
@@ -24,6 +26,23 @@ function Slideshow({ term, week, onComplete }) {
     }
   };
 
+  const handleTouchStart = (event) => {
+    touchStartX.current = event.touches[0].clientX;
+  };
+
+  const handleTouchEnd = (event) => {
+    touchEndX.current = event.changedTouches[0].clientX;
+    handleSwipe();
+  };
+
+  const handleSwipe = () => {
+    if (touchStartX.current - touchEndX.current > 50) {
+      nextSlide();
+    } else if (touchEndX.current - touchStartX.current > 50) {
+      prevSlide();
+    }
+  };
+
   useEffect(() => {
     window.addEventListener("keydown", handleKeyDown);
     return () => {
@@ -32,7 +51,10 @@ function Slideshow({ term, week, onComplete }) {
   }, []);
 
   return (
-    <div className="slideshow-container">
+    <div
+      className="slideshow-container"
+      onTouchStart={handleTouchStart}
+      onTouchEnd={handleTouchEnd}>
       <button onClick={prevSlide} disabled={weekSlides.length === 0}>
         Previous
       </button>
