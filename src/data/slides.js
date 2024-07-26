@@ -24,7 +24,7 @@ const slides = [
     title: "Groenbone",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/groenbone.jpg",
+    imageUrl: "https://i.postimg.cc/TPSfyC8M/groenbone.jpg",
   },
   {
     term: 1,
@@ -33,7 +33,7 @@ const slides = [
     title: "Patat",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/patat.jpg",
+    imageUrl: "https://i.postimg.cc/kGNmpC2q/patat.jpg",
   },
   {
     term: 1,
@@ -42,7 +42,7 @@ const slides = [
     title: "Murgpampoen",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/murgpampoen.jpg",
+    imageUrl: "https://i.postimg.cc/Y9WkQYk4/murgpampoen.jpg",
   },
   {
     term: 1,
@@ -51,7 +51,7 @@ const slides = [
     title: "Eiervrug",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/eiervrug.jpg",
+    imageUrl: "https://i.postimg.cc/N0LQfZzk/eiervrug.jpg",
   },
   {
     term: 1,
@@ -60,7 +60,7 @@ const slides = [
     title: "Pampoen",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/pampoen.jpg",
+    imageUrl: "https://i.postimg.cc/wMYz2MTw/pampoen.jpg",
   },
   {
     term: 1,
@@ -69,7 +69,7 @@ const slides = [
     title: "Wortel",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/wortel.jpg",
+    imageUrl: "https://i.postimg.cc/Ghrrs4f2/wortel.jpg",
   },
   {
     term: 1,
@@ -78,7 +78,7 @@ const slides = [
     title: "Blomkool",
     description:
       "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
-    imageUrl: "/images/Term 1/Week 1/Enc/blomkool.jpg",
+    imageUrl: "https://i.postimg.cc/SxSyHnL5/blomkool.jpg",
   },
   {
     term: 1,
@@ -93,104 +93,104 @@ const slides = [
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/1.png",
+    imageUrl: "https://i.postimg.cc/fRMGn9wt/1.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/2.png",
+    imageUrl: "https://i.postimg.cc/c4RpbmNG/2.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/3.png",
+    imageUrl: "https://i.postimg.cc/WbcR8yC7/3.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/4.png",
+    imageUrl: "https://i.postimg.cc/RFJ8Q1T8/4.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/5.png",
+    imageUrl: "https://i.postimg.cc/5tRTCK8L/5.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/6.png",
+    imageUrl: "https://i.postimg.cc/zGp9JGBd/6.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/7.png",
+    imageUrl: "https://i.postimg.cc/d01gDcZJ/7.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/8.png",
+    imageUrl: "https://i.postimg.cc/gcRQxDjL/8.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/9.png",
+    imageUrl: "https://i.postimg.cc/rsSP783N/9.png",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/LD/10.png",
+    imageUrl: "https://i.postimg.cc/RhrYP3s0/10.png",
   },
 
   //WISKUNDE
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/1.jpg",
+    imageUrl: "https://i.postimg.cc/BbcmMmPh/w1.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/2.jpg",
+    imageUrl: "https://i.postimg.cc/T2rNd3Nr/w2.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/3.jpg",
+    imageUrl: "https://i.postimg.cc/BQ4YXfRR/w3.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/4.jpg",
+    imageUrl: "https://i.postimg.cc/cJgTVx8t/w4.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/5.jpg",
+    imageUrl: "https://i.postimg.cc/JzdP6DtW/w5.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/6.jpg",
+    imageUrl: "https://i.postimg.cc/8P4yvnSc/w6.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/7.jpg",
+    imageUrl: "https://i.postimg.cc/PJh4p1V1/w8.jpg ",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/8.jpg",
+    imageUrl: "https://i.postimg.cc/26nGS0Gz/w9.jpg",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/9.jpg",
+    imageUrl: "https://i.postimg.cc/Jzhp5crq/w7.jpg ",
   },
   {
     term: 1,
     week: 1, // Specify the week
-    imageUrl: "/images/Term 1/Week 1/Math/10.jpg",
+    imageUrl: "https://i.postimg.cc/25sTYs4c/w10.jpg",
   },
 ];
 
