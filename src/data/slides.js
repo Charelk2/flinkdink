@@ -5,7 +5,7 @@ const slides = [
     headerTitle: "Onion",
     title: "Ui",
     description:
-      "1. Tlfuric compounds in onions cause is to cry when we chop them. 2. The largest onion ever grown is a whopping 4.5kg",
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
     imageUrl: "https://i.postimg.cc/y60sdmvt/ui.jpg",
   },
   {
@@ -14,7 +14,7 @@ const slides = [
     headerTitle: "Beetroot",
     title: "Beet",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Verkies koel, klam klimaat.Ryk aan foliensuur. Gebruik vir natuurlike kleurstof in kos en drankies.",
     imageUrl: "https://i.postimg.cc/dV5qFJ40/beet.jpg",
   },
   {
@@ -23,7 +23,7 @@ const slides = [
     headerTitle: "Greenbeans",
     title: "Groenbone",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei goed in warm, sonnige weer.Ryk aan vitamien K.Belangrike bron van vesel en lae in kalorieë.",
     imageUrl: "https://i.postimg.cc/TPSfyC8M/groenbone.jpg",
   },
   {
@@ -32,7 +32,7 @@ const slides = [
     headerTitle: "Sweet Potato",
     title: "Patat",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei in warm klimate met baie reën.Ryk aan vitamien A.Word dikwels gebruik in sop en bredies.",
     imageUrl: "https://i.postimg.cc/kGNmpC2q/patat.jpg",
   },
   {
@@ -41,7 +41,7 @@ const slides = [
     headerTitle: "Baby Marrow",
     title: "Murgpampoen",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei goed in warm, sonnige weer.Ryk aan vitamien C. Populêr in gesonde pastageregte as 'n vervanging vir pasta.",
     imageUrl: "https://i.postimg.cc/Y9WkQYk4/murgpampoen.jpg",
   },
   {
@@ -50,7 +50,7 @@ const slides = [
     headerTitle: "Aubergine",
     title: "Eiervrug",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei in warm, tropiese klimate.Ryk aan vesel en vitamien B.Word dikwels gerooster of gebak vir 'n bygereg.",
     imageUrl: "https://i.postimg.cc/N0LQfZzk/eiervrug.jpg",
   },
   {
@@ -59,7 +59,7 @@ const slides = [
     headerTitle: "Pumpkin",
     title: "Pampoen",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Verkies gematigde tot warm weer.Ryk aan vitamien A.Gebruik om pampoenkoekies en muffins te maak",
     imageUrl: "https://i.postimg.cc/wMYz2MTw/pampoen.jpg",
   },
   {
@@ -68,7 +68,7 @@ const slides = [
     headerTitle: "Carrot",
     title: "Wortel",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei goed in koel, klam klimaat.Ryk aan beta-karoteen.Word dikwels in slaaie en smoothies gebruik.",
     imageUrl: "https://i.postimg.cc/Ghrrs4f2/wortel.jpg",
   },
   {
@@ -77,7 +77,7 @@ const slides = [
     headerTitle: "Cauliflower",
     title: "Blomkool",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei goed in koel weer.Ryk aan vitamien C.Gebruik as 'n lae-koolhidraat rys vervanging.",
     imageUrl: "https://i.postimg.cc/SxSyHnL5/blomkool.jpg",
   },
   {
@@ -86,7 +86,7 @@ const slides = [
     headerTitle: "Potato",
     title: "Aartappel",
     description:
-      "Beet roots and stems are edible and a good source of vitamin A, C, folate, calcium, and fiber. They contain many antioxidants such as betalains, carotenoids, and flavonoids which prevent colon cancer and protect heart health. Beet juice can be used as a red dye. Beets are also known as the blood turnip.",
+      "Groei goed in koel, gematigde klimate.Ryk aan vitamien C en B6.Word gebruik om aartappelskyfies en kapokaartappels te maak.",
     imageUrl: "/images/Term 1/Week 1/Enc/aartappel.jpg",
   },
   //TAALONTWIKKELING=====
