@@ -87,7 +87,7 @@ const slides = [
     title: "Aartappel",
     description:
       "Groei goed in koel, gematigde klimate.Ryk aan vitamien C en B6.Word gebruik om aartappelskyfies en kapokaartappels te maak.",
-    imageUrl: "/images/Term 1/Week 1/Enc/aartappel.jpg",
+    imageUrl: "https://i.postimg.cc/SN7SZ69C/aartappel.jpg",
   },
   //TAALONTWIKKELING=====
   {
@@ -191,6 +191,192 @@ const slides = [
     term: 1,
     week: 1, // Specify the week
     imageUrl: "https://i.postimg.cc/25sTYs4c/w10.jpg",
+  },
+
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "dalmatian",
+    title: "dalmatiese hond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/GtqLPGCW/Whats-App-Image-2022-10-09-at-8-41-07-PM-1.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "bulldog",
+    title: "bulhond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/kMcgd3bT/Whats-App-Image-2022-10-09-at-8-43-11-PM-1.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "golden retriever",
+    title: "goudkleurige apporteerhond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/fTRTz27D/Whats-App-Image-2022-10-09-at-8-45-37-PM-1.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "dachshund",
+    title: "worshond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/xTpjcvgH/Whats-App-Image-2022-10-09-at-9-00-58-PM.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "border collie",
+    title: "skaaphond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/t41qPsmc/Whats-App-Image-2022-10-09-at-9-06-14-PM.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "rohedesian ridgeback",
+    title: "rhodesiese rifrughond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/RZjMTvkZ/Whats-App-Image-2022-10-09-at-9-07-43-PM.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "greyhound",
+    title: "windhond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/fbmM26sj/Whats-App-Image-2022-10-09-at-9-27-41-PM-1.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "irish wolfhound",
+    title: "ierse wolfhound",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/KzbxdJvX/Whats-App-Image-2022-10-09-at-9-28-45-PM.jpg",
+  },
+  {
+    term: 1,
+    week: 2,
+    headerTitle: "bloodhound",
+    title: "bloedhond",
+    description:
+      "Groei goed in gematigde klimate.Ryk aan vitamien C.Word gebruik om vleis te geur en te versag.",
+    imageUrl: "https://i.postimg.cc/HxtdHXVr/Whats-App-Image-2022-10-09-at-9-31-48-PM.jpg",
+  },
+
+  //WOORDESKAT
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/dtsmqYS3/bal.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/8zsR6bGV/bottel.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/BQm5bVdg/broer.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/prxQ5bW0/kinders.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/9MytfFhR/nefie.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/yNMyB3wC/niggie.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/jj7y8dCg/oom.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/59qSd0gD/pop.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/RhR7csqv/suster.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/2SJ4FBjL/tannie.png",
+  },
+
+  //WIKSUNDE
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/zG5Bmzd2/1.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/xqDwzdkw/3.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/662Tn12c/2.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/4NpdF71h/5.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/CM35NHbg/4.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/j27V2fj6/6.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/4dnRCqkS/7.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/FKTXBmqS/8.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/9.png",
+  },
+  {
+    term: 1,
+    week: 2,
+    imageUrl: "https://i.postimg.cc/RF85vdvV/10.png",
   },
 ];
 
