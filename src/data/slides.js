@@ -193,6 +193,7 @@ const slides = [
     imageUrl: "https://i.postimg.cc/25sTYs4c/w10.jpg",
   },
 
+  //TERM 1 WEEK 2
   {
     term: 1,
     week: 2,
@@ -377,6 +378,204 @@ const slides = [
     term: 1,
     week: 2,
     imageUrl: "https://i.postimg.cc/RF85vdvV/10.png",
+  },
+
+  //TERM 1 WEEK 3
+  //ensiklopdie
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "apple",
+    title: "appel",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/pdCNVstn/appel.jpg",
+  },
+
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "apricot",
+    title: "appelkoos",
+    description:
+      "Appelkose is 'n goeie bron van vitamien A en C. Appelkose kan gebruik word om konfyt te maak, of hulle kan in stukkies gesny word vir 'n heerlike vrugtehap. Appelkose kose vars geëet word of gedroog word vir 'n gesonde peuselhappie. Appelkose kom in 'n verskeidenheid kleure, van oranje tot geel en selfs pienk,.",
+    imageUrl: "https://i.postimg.cc/bJw7Z1zV/appelkoos.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "grapes",
+    title: "druiwe",
+    description:
+      " Druiwe is 'n uitstekende bron van vitamiene C en K. Druiwe is ryk aan antioksidante, insluitend resveratrol en flavonoïede, asook dieetvesel. Wyn word van druiwe gemaak. ",
+    imageUrl: "https://i.postimg.cc/VvS2R10j/druiwe.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "orange",
+    title: "lemoen",
+    description:
+      "'n Lemoen is 'n sitrus vrug. Dit het waarskynlik sy oorsprong in Suidoos-Asië. Lemoenbome is sedert 1987 die mees aangeplante vrugteboom ter wêreld. Lemoenskille is eetbaar en het 'n hoër inhoud van vitamien C en meer vesel",
+    imageUrl: "https://i.postimg.cc/KzpdB4jG/lemoen.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "peach",
+    title: "perske",
+    description:
+      "Ons perskes kom oorspronklik uit China, waar dit al sedert 1100 vC bekend was. Daar is tans meer as 300 soorte perskes. Een van die oudste perske-soorte is die St Helena perske. Perskes het natuurlike kalmerende bestanddele.",
+    imageUrl: "https://i.postimg.cc/rybBpd7g/perske.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "banana",
+    title: "piesang",
+    description:
+      "Die piesangplant is nie ’n boom nie. Die klimaat en die aard van die grond bepaal die groei en grootte van die plant. Vir die beste groei moet die temperatuur nooit laer as 20 grade Celsius daal nie.In die Verenigde State word daar jaarliks ongeveer 11 miljard piesangs geëet",
+    imageUrl: "https://i.postimg.cc/Y0JZDVQT/piesang.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "plum",
+    title: "pruim",
+    description:
+      " Gedroogde pruime word pruimedante genoem. Pruime is in dieselfde familie as appelkose. Een pruim gee 15% van jou vitamien c vir die dag.",
+    imageUrl: "https://i.postimg.cc/5NCZQ4VJ/pruim.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "pineapple",
+    title: "pynappel",
+    description:
+      "Pynappels word vars geëet, gekook, versap en ingelê. Pynappels neem 2 en 'n half jaar om te groei. Pynappels bevat 'n spesiale ensiem genaamd bromelien, wat kan help om voedsel beter te verteer. ",
+    imageUrl: "https://i.postimg.cc/SxbHWBSM/pynappel.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "lemon",
+    title: "suurlemoen",
+    description:
+      "'n Suurlemoen kan gebruik word as medisyne, ’n skoonmaakmiddel, ’n ontsmettingsmiddel en vir skoonheidsbehandeling. Suurlemoen is ‘n goeie bron van pektien wat belangrik is vir ‘n gesonde kolon. Suurlemoen water is die oorspronklike hidrasie drankie. ",
+    imageUrl: "https://i.postimg.cc/wj5ZFwMb/suurlemoen.jpg",
+  },
+  {
+    term: 1,
+    week: 3,
+    headerTitle: "prickly pear",
+    title: "turksvy",
+    description:
+      "Die turksvy (Opuntia tuna) is 'n plant in die kaktusfamilie, Cactaceae.  Turksvye floreer in streke met matige winters met langdurige droë tye. Turskvye is afkomstig van Amerika",
+    imageUrl: "https://i.postimg.cc/g0Y5736c/turksvy.jpg",
+  },
+
+  //woordeskat
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/PJkFmZhk/1.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/wvDwTvN4/10.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/RV4DhcX7/2.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/h49YKCb4/3.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/6qLbz354/4.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/dt6SyLxz/5.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/t4gvt907/6.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/3w4LV9xT/7.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/nhwR3NZ2/8.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/jjp8bNDJ/9.png",
+  },
+
+  //wiskunde
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/9.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/6.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/8.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/10.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/vmYdhDPM/7.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/5tC3n0s9/w11.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/bwMgxbHF/w12.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/mDWSqsnY/w13.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/505mWrcZ/w14.png",
+  },
+  {
+    term: 1,
+    week: 3,
+    imageUrl: "https://i.postimg.cc/D02Pvcnm/w15.png",
   },
 ];
 
