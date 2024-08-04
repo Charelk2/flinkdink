@@ -81,7 +81,7 @@
   background-color: white;
   border: 1px solid hsla(0, 0%, 100%, 0);
   padding: 20px; /* Increase padding for better content spacing */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Softer shadow for a subtle effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0); /* Softer shadow for a subtle effect */
   border-radius: 10px; /* Rounded corners */
 }
 
