@@ -59,7 +59,10 @@ function Slideshow({ term, week, onComplete }) {
         Previous
       </button>
       {weekSlides.length > 0 ? (
-        <Slide slide={weekSlides[currentIndex]} />
+        <Slide
+          slide={weekSlides[currentIndex]}
+          onClick={nextSlide} // Pass the nextSlide function here
+        />
       ) : (
         <div>No slides available for this week.</div>
       )}
