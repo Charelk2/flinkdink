@@ -16,10 +16,12 @@
   text-decoration: none;
   color: #007bff;
   font-size: 2em;
+  font-weight: bold; /* Add bold font for emphasis */
 }
 
 .HomePage a:hover {
   text-decoration: underline;
+  color: #0056b3; /* Darker shade on hover for better contrast */
 }
 
 .App {
@@ -35,6 +37,7 @@
   justify-content: center;
   color: rgb(65, 64, 64);
   position: relative;
+  padding: 20px; /* Ensure padding for better spacing */
 }
 
 .home-button {
@@ -47,10 +50,15 @@
   border: none;
   border-radius: 5px;
   cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition */
 }
 
 .home-button:hover {
   background-color: #0056b3;
+}
+
+.home-button:focus {
+  outline: 2px solid #0056b3; /* Add focus outline for accessibility */
 }
 
 /* Slideshow.css */
@@ -58,6 +66,7 @@
   position: relative;
   width: 80%;
   margin: auto;
+  padding: 10px; /* Add padding for better spacing */
 }
 
 .header-title {
@@ -71,8 +80,9 @@
   text-align: center;
   background-color: white;
   border: 1px solid hsla(0, 0%, 100%, 0);
-  padding: 10px;
-  box-shadow: 0 0 10px #ffffff;
+  padding: 20px; /* Increase padding for better content spacing */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Softer shadow for a subtle effect */
+  border-radius: 10px; /* Rounded corners */
 }
 
 .slide img {
@@ -81,6 +91,7 @@
   height: auto;
   max-height: 400px;
   object-fit: contain;
+  border-radius: 10px; /* Rounded corners for images */
 }
 
 .slide h2 {
