@@ -577,6 +577,208 @@ const slides = [
     week: 3,
     imageUrl: "https://i.postimg.cc/D02Pvcnm/w15.png",
   },
+
+  //TERM 1 WEEK 3
+  //ensiklopdie
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "protea",
+    title: "protea",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/cHsNKDDV/Protea.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "tulip",
+    title: "tulp",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/J00VxsCx/Tulp.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "dahlia",
+    title: "dahlia",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/Prch6Qxw/Dahlia.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "nasturium",
+    title: "kappertjie",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/LsFSS4j4/Nasturtium-kappertjie.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "malva",
+    title: "mallow",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/Hsjd4hpm/Malva-mallow.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "hesperantha",
+    title: "aandblom",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/90gVHGYs/Hesperantha-aandblom.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "ranunculus",
+    title: "ranonkel",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/8CdSz8bR/Ranunculus-ranonkel.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "rose",
+    title: "roos",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/xCtVLKhq/Roos.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "sunflower",
+    title: "sonneblom",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/Gtf05bcC/Sonneblom.png",
+  },
+
+  {
+    term: 1,
+    week: 4,
+    headerTitle: "lily",
+    title: "lelie",
+    description:
+      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    imageUrl: "https://i.postimg.cc/Kc0mT2hQ/Lelie-lily.png",
+  },
+  //woordeskat week 4
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/90KSB1pX/1.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/W3ff2Sxm/10.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/QCHw5vcn/2.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/wxGSHTpK/3.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/3J0zw58k/4.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/htF6zyvp/5.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/6pdSdrGw/6.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/R04YGWct/7.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/GpK5fbQ5/8.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/265KRg98/9.png",
+  },
+
+  //wiskunde week 4
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/5tC3n0s9/w11.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/mDWSqsnY/w13.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/bwMgxbHF/w12.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/D02Pvcnm/w15.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/505mWrcZ/w14.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/Hk9mpDzQ/w16.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/nLVJrRSN/w17.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/d1Lcm7YB/w18.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/438T96ry/w19.png",
+  },
+  {
+    term: 1,
+    week: 4,
+    imageUrl: "https://i.postimg.cc/W3CL92pP/w20.png",
+  },
 ];
 
 export default slides;
