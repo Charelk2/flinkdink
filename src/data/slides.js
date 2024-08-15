@@ -586,7 +586,7 @@ const slides = [
     headerTitle: "protea",
     title: "protea",
     description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+      " Die Koning Protea is die grootste van sy soort en kom voor in die suid-westelike en Suidelike areas in die Wes-Kaap",
     imageUrl: "https://i.postimg.cc/cHsNKDDV/Protea.png",
   },
 
@@ -595,8 +595,7 @@ const slides = [
     week: 4,
     headerTitle: "tulip",
     title: "tulp",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "is inheems aan lande soos onder meer Turkye",
     imageUrl: "https://i.postimg.cc/J00VxsCx/Tulp.png",
   },
 
@@ -606,7 +605,7 @@ const slides = [
     headerTitle: "dahlia",
     title: "dahlia",
     description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+      "Dahlias is somerblomme, weer baie maklik om te groei in gebiede waar die sonlig die sterkste is en die watervlakke laag is.",
     imageUrl: "https://i.postimg.cc/Prch6Qxw/Dahlia.png",
   },
   {
@@ -614,8 +613,7 @@ const slides = [
     week: 4,
     headerTitle: "nasturium",
     title: "kappertjie",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Die blare is hoog in Vitamin C en is ook 'n sterk antibakteriese middel.",
     imageUrl: "https://i.postimg.cc/LsFSS4j4/Nasturtium-kappertjie.png",
   },
 
@@ -624,8 +622,7 @@ const slides = [
     week: 4,
     headerTitle: "malva",
     title: "mallow",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Daar is meer as 450 spesies",
     imageUrl: "https://i.postimg.cc/Hsjd4hpm/Malva-mallow.png",
   },
   {
@@ -634,7 +631,7 @@ const slides = [
     headerTitle: "hesperantha",
     title: "aandblom",
     description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+      "Aandblom verwys na verskillende plante waarvan die blomme saans oopgaan en gewoonlik 'n soet geur afgee.",
     imageUrl: "https://i.postimg.cc/90gVHGYs/Hesperantha-aandblom.png",
   },
   {
@@ -642,8 +639,7 @@ const slides = [
     week: 4,
     headerTitle: "ranunculus",
     title: "ranonkel",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Dit is 'n baie sagte blom en delikate blom",
     imageUrl: "https://i.postimg.cc/8CdSz8bR/Ranunculus-ranonkel.png",
   },
 
@@ -652,8 +648,7 @@ const slides = [
     week: 4,
     headerTitle: "rose",
     title: "roos",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Die oudste roos is 1000 jaar oud",
     imageUrl: "https://i.postimg.cc/xCtVLKhq/Roos.png",
   },
 
@@ -662,8 +657,7 @@ const slides = [
     week: 4,
     headerTitle: "sunflower",
     title: "sonneblom",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Sonneblomme word meestal gekweek vir hulle saad, wat uitstekende olie lewer",
     imageUrl: "https://i.postimg.cc/Gtf05bcC/Sonneblom.png",
   },
 
@@ -672,8 +666,7 @@ const slides = [
     week: 4,
     headerTitle: "lily",
     title: "lelie",
-    description:
-      "Appels is ryk aan vesel, wat kan help om jou spysvertering gesond te hou. Appels is 'n goeie bron van vitamien C, wat jou immuunstelsel help om siektes af te weer. Daar is baie verskillende soorte appels, en hulle kom in verskeie kleure en smake voor. Appels kan kinders help om hulle tande en kake te versterk.",
+    description: "Lelies is tradisioneel 'n simbool van geluk en onskuld",
     imageUrl: "https://i.postimg.cc/Kc0mT2hQ/Lelie-lily.png",
   },
   //woordeskat week 4
