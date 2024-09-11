@@ -578,7 +578,7 @@ const slides = [
     imageUrl: "https://i.postimg.cc/D02Pvcnm/w15.png",
   },
 
-  //TERM 1 WEEK 3
+  //TERM 1 WEEK 4
   //ensiklopdie
   {
     term: 1,
@@ -771,6 +771,200 @@ const slides = [
     term: 1,
     week: 4,
     imageUrl: "https://i.postimg.cc/W3CL92pP/w20.png",
+  },
+  //TERM 1 WEEK 5
+  //ensiklopdie
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "praying mantis",
+    title: "hottentotsgot",
+    description:
+      "Die bidsprinkaan is bekend vir sy jaggedrag, waar dit in 'n bidposisie wag en dan vinnig toeslaan op sy prooi. Dit is 'n roofdier wat ander insekte, soos vlieë en motte, eet. Hulle het uitstekende kamoeflering en kan hulself in plante en blare vermeng om hul prooi maklik te vang. Hulle het ook die vermoë om hul koppe te draai, wat hulle in staat stel om hul omgewing beter dop te hou, iets wat ongewoon is vir insekte.",
+    imageUrl: "https://i.postimg.cc/4x4TN5Vc/hottentotsgot.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "bee",
+    title: "by",
+    description:
+      "Die Europese heuningby (Apis mellifera) is die bekendste byespesie en produseer heuning wat deur mense gebruik word.",
+    imageUrl: "https://i.postimg.cc/XNwMfhgF/by.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "cockroach",
+    title: "kakkerlak",
+    description:
+      "Kakkerlakke is bekend vir hul oorlewingsvermoë en kan vir 'n paar weke oorleef sonder kos. Hulle kan selfs 'n week sonder hul kop leef, aangesien hul liggaam steeds funksioneer tot dit uiteindelik aan dors sterf. Kakkerlakke is ook een van die oudste insekgroepe op aarde, wat al vir meer as 300 miljoen jaar bestaan.",
+    imageUrl: "https://i.postimg.cc/J4mfPqTF/kokkorot.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "ladybug",
+    title: "lieweheersbesie",
+    description:
+      "Die lieweheersbesie, of ladybug in Engels, is 'n klein, kleurvolle kewer wat bekend is vir sy helder rooi of oranje lyf met swart kolle. Hier is 'n interessante feit oor lieweheersbesies:Lieweheersbesies is baie nuttige insekte in tuine, aangesien hulle help om plantluise en ander klein plaaginsekte te beheer. 'n Enkele lieweheersbesie kan honderde plantluise per dag eet, wat hulle natuurlike plaagbestryders maak en help om plante te beskerm teen skade.Daarbenewens beskou baie mense hulle as simbole van geluk en beskerming.",
+    imageUrl: "https://i.postimg.cc/TY9ZSDF3/lieweheersbesie.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "ant",
+    title: "mier",
+    description:
+      "Miere kan baie swaar voorwerpe dra—sommige spesies is in staat om voorwerpe tot 50 keer hul eie liggaamsgewig op te tel! Dit maak hulle van die sterkste wesens in verhouding tot hul grootte. Hierdie vermoë help hulle om kos en boumateriaal terug te neem na hul neste, waar hulle saamwerk om die kolonie te onderhou. Miere kommunikeer ook met mekaar deur chemiese seine genaamd feromone. Hulle gebruik hierdie seine om kos te vind, paaie aan te dui, en gevare te waarsku.",
+    imageUrl: "https://i.postimg.cc/X7Qzx0BZ/mier.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "dungbeetle",
+    title: "miskruier",
+    description:
+      "Miskruiers speel 'n belangrike rol in die ekosisteem deur mis te versamel en dit in die grond te begrawe. Dit help om die grond te verryk en verbeter die vrugbaarheid van die grond, aangesien dit voedingstowwe terugbring in die omgewing. Hulle gebruik ook die mis as 'n voedselbron en om hul eiers in te lê, wat beskerming bied aan hul nageslag. Nog 'n merkwaardige feit is dat sommige miskruiers in staat is om hul pad te navigeer deur die posisie van die sterre, wat hulle help om reguit te beweeg terwyl hulle die misbol rol.",
+    imageUrl: "https://i.postimg.cc/ZnJwFfTF/miskruier.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "moth",
+    title: "mot",
+    description:
+      "Motte word sterk aangetrek tot lig, en hoewel die rede hiervoor nie heeltemal verstaan word nie, word vermoed dat hulle natuurlike navigasietegnieke gebruik wat verwant is aan die maanlig. Moderne kunsmatige ligte kan hul rigtinggevoel verwar, wat veroorsaak dat hulle om ligbronne sirkel. Nog 'n interessante feit is dat sommige motte, soos die sywurm, 'n belangrike rol in die produksie van sy speel, 'n materiaal wat al duisende jare gebruik word deur mense.",
+    imageUrl: "https://i.postimg.cc/3N9nLgNM/mot.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "dragonfly",
+    title: "naaldekoker",
+    description:
+      "Naaldekokers is uitstekende jagters en kan ander insekte, soos vlieë en muskiete, in die lug vang. Hulle kan met ongelooflike presisie vlieg, insluitend die vermoë om skerp draaie te maak, agteruit te vlieg, en in die lug stil te staan. Hulle groot, saamgestelde oë gee hulle 'n wye gesigsveld, wat hulle help om prooi vinnig raak te sien. Naaldekokers spandeer ook die grootste deel van hul lewe as nimfe in water, waar hulle hul prooi jag voordat hulle in volwasse insekte transformeer.",
+    imageUrl: "https://i.postimg.cc/bJx6nXjw/naaldekoker.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "stick insect",
+    title: "stokgogga",
+    description:
+      "Stokgoggas het 'n indrukwekkende vermoë om te kamoefleer en kan dikwels moeilik opgespoor word omdat hulle lyk soos die takke of blare van plante waar hulle op leef. As hulle egter bedreig word, kan sommige spesies ook hul sterf- of regtige tak-voorkoms gebruik om 'n selfs meer afskrikwekkende voorkoms te hê.As 'n verdedigingstegniek kan stokgoggas hul bene afbreek om te ontsnap uit rovers, en nuwe bene sal later groei. Hierdie regenerasie help hulle om te oorleef in die natuur.",
+    imageUrl: "https://i.postimg.cc/DZT6nCbk/stokgogga.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    headerTitle: "fly",
+    title: "vlieg",
+    description:
+      "Vlieë het 'n baie vinnige en behendige vliegstyl. Hulle kan tot 200 keer per sekonde hul vlerke fladder, wat hulle in staat stel om vinnig te beweeg en direk na prooi of gevaar te ontsnap. Hierdie vinnige vlerklap help hulle om in die lug te bly en vinnig te draai of te stop. Vlieë het ook 'n besonderse manier om hulle kos te verkry: hulle kan hulle mondstukke uitrol en vloeibare kosse opneem. Dit is waarom hulle dikwels op soet of vloeibare kosse afkom, en waarom hulle soms probleme in voedselomgewings kan veroorsaak.",
+    imageUrl: "https://i.postimg.cc/j2qhJLXM/vlieg.png",
+  },
+  //woordeskat week 4
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/63CMskjN/1.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/Kzh559Zp/10.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/8kBZZVfR/2.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/x8Yt96hN/3.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/vTzXTWwq/4.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/c4xXj5fV/5.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/Nfdpw74L/6.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/7ZbXPGs9/7.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/P5cyCX0j/8.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/Pqw4YGk8/9.png",
+  },
+  //wiskunde week 4
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/nLVJrRSN/w17.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/438T96ry/w19.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/d1Lcm7YB/w18.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/Hk9mpDzQ/w16.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/W3CL92pP/w20.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/wxVkhcnF/w26.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/761ntghH/w27.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/mkbNvt1Q/w28.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/J0PcMMjS/w29.png",
+  },
+  {
+    term: 1,
+    week: 5,
+    imageUrl: "https://i.postimg.cc/L683vgpS/w30.png",
   },
 ];
 
