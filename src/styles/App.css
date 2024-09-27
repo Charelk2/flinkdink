@@ -102,6 +102,12 @@ main {
 
   transition: all 0.3s ease;
 }
+.homebs {
+  display: table-row;
+  grid-template-rows: repeat(auto-fit, minmax(10px, 1fr));
+  gap: 100px;
+  margin: 2px;
+}
 
 .homebs:hover {
   background-color: var(--primary-color);
