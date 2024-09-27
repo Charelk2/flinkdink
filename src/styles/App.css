@@ -1,3 +1,44 @@
+:root {
+  --primary-color: #ff6b6b;
+  --secondary-color: #4ecdc4;
+  --accent-color: #ffd93d;
+  --dark-color: #6e5773;
+  --light-color: #f7fff7;
+}
+
+body {
+  font-family: "Fredoka", sans-serif;
+  background-color: var(--light-color);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  background-color: var(--primary-color);
+  color: white;
+  text-align: center;
+  padding: 1px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+main {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px 20px;
+}
+
+/* Add more styles for buttons, containers, and selections here as needed */
+
 /* src/styles/App.css */
 .HomePage {
   text-align: center;
@@ -28,16 +69,44 @@
   text-align: center;
 }
 
-.App-header {
-  background-color: #ffffff;
-  min-height: 100vh;
+.App-header1 {
+  background-color: var(--primary-color);
+  font-family: "fredoka", sans-serif;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: rgb(65, 64, 64);
+  color: rgb(255, 255, 255);
   position: relative;
   padding: 20px; /* Ensure padding for better spacing */
+}
+.homebs {
+  background-color: var(--secondary-color);
+  color: rgb(255, 255, 255);
+  border: black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 0.8em;
+  cursor: pointer;
+  transition: all 0.3s ease; /* Ensure padding for better spacing */
+}
+
+.terms {
+  background-color: var(--light-color);
+  color: rgb(0, 0, 0);
+  border: black;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 2em;
+
+  transition: all 0.3s ease;
+}
+
+.homebs:hover {
+  background-color: var(--primary-color);
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
 .home-button {

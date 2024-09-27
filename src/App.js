@@ -27,22 +27,27 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-header1">
+        <h1>Welcome to FlinkDink</h1>
+        <button className="home-button" onClick={handleGoHome}>
+          Home
+        </button>
+      </header>
+      <main className="App-header">
         {showSlideshow ? (
           <>
-            <button className="home-button" onClick={handleGoHome}>
-              Home
-            </button>
             <Slideshow term={currentTerm} week={currentWeek} onComplete={handleCompleteWeek} />
           </>
         ) : (
           <>
-            <h1>Welcome to FlinkDink</h1>
             {[1, 2, 3, 4].map((term) => (
               <div key={term}>
-                <h2>Term {term}</h2>
+                <h2 className="terms">Term {term}</h2>
                 {Array.from({ length: 10 }, (_, i) => i + 1).map((week) => (
-                  <button key={week} onClick={() => handleShowSlideshow(term, week)}>
+                  <button
+                    className="homebs"
+                    key={week}
+                    onClick={() => handleShowSlideshow(term, week)}>
                     Go to Week {week} {completedWeeks[`${term}-${week}`] && "✓"}
                   </button>
                 ))}
@@ -50,7 +55,7 @@ function App() {
             ))}
           </>
         )}
-      </header>
+      </main>
     </div>
   );
 }
