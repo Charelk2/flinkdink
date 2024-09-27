@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header1">
-        <h1>Welcome to FlinkDink</h1>
+        <h1>FlinkDink</h1>
         <button className="home-button" onClick={handleGoHome}>
           Home
         </button>

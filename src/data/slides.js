@@ -966,6 +966,190 @@ const slides = [
     week: 5,
     imageUrl: "https://i.postimg.cc/L683vgpS/w30.png",
   },
+  //TERM 1 WEEK 6
+  //ensiklopdie
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "bloukraanvoel",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/wTTsH7RQ/Bloukraanvoel.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "blouvalk",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/L6Cgs2zK/Blouvalk.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "bosluisvoel",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/jqhJGz2j/Bosluisvoel.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "bruivalk",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/FHYdd8Zf/Bruinvalk.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "europese byvreter",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/DwRWq6jx/Europese-byvreter.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "europese swawel",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/Zq3WjNX4/Europese-Swawel.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "kiewiet",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/XJbpPJ0F/Kiewiet.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "swartkopreier",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/C1szpgF2/Swartkopreier.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "swartkorhaan",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/PJfNtRJ5/Swartkorhaan.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    headerTitle: "tortelduif",
+    title: "",
+    description: "",
+    imageUrl: "https://i.postimg.cc/1XWX4rVc/Tortelduif.png",
+  },
+  //woordeskat week 6
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/1zgjdmK9/1.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/nhrRsFgv/10.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/rmxY8fb3/2.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/t4vcDZWS/3.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/5tZRdhP8/4.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/vTy2DWwB/5.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/VvFGtdzF/6.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/pVQ141Kn/7.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/jdskbQh3/8.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/pXqcXhGW/9.png",
+  },
+  //wiskunde week 6
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/761ntghH/w27.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/J0PcMMjS/w29.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/mkbNvt1Q/w28.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/L683vgpS/w30.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/wxVkhcnF/w26.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/TwVC8p5X/31.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/90c1cCyw/32.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/cCThH2c9/33.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/jqhZZnrH/34.png",
+  },
+  {
+    term: 1,
+    week: 6,
+    imageUrl: "https://i.postimg.cc/Dyy5Df2t/35.png",
+  },
 ];
 
 export default slides;

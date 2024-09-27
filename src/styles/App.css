@@ -71,15 +71,16 @@ main {
 
 .App-header1 {
   background-color: var(--primary-color);
-  font-family: "fredoka", sans-serif;
-  min-height: 10vh;
+  font-family: Fredoka;
+  font-size: large;
+  min-height: 1vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   color: rgb(255, 255, 255);
   position: relative;
-  padding: 20px; /* Ensure padding for better spacing */
+  padding: 15px; /* Ensure padding for better spacing */
 }
 .homebs {
   background-color: var(--secondary-color);
@@ -120,7 +121,7 @@ main {
   top: 10px;
   left: 10px;
   padding: 10px;
-  background-color: #007bff;
+  background-color: var(--secondary-color);
   color: white;
   border: none;
   border-radius: 5px;
@@ -129,11 +130,11 @@ main {
 }
 
 .home-button:hover {
-  background-color: #0056b3;
+  background-color: var(--accent-color);
 }
 
 .home-button:focus {
-  outline: 2px solid #0056b3; /* Add focus outline for accessibility */
+  outline: 1px solid var(--light-color); /* Add focus outline for accessibility */
 }
 
 /* Slideshow.css */
